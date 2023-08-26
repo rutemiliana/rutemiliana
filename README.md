@@ -1,4 +1,4 @@
-### Hi there. I'm Rute Miliana 👋
+### Olá, eu sou a Rute Miliana 👋
 
 <!--
 **rutemiliana/rutemiliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
